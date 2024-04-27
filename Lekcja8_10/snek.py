@@ -1,3 +1,4 @@
+#dats a snek
 import pygame
 import copy
 from direction import Direction
